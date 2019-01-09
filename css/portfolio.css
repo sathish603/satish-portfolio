@@ -6,7 +6,8 @@ p{
     margin:0;
 }
 .red-bg {
-        background-color: #cc0000;
+        background-color: #222;
+        opacity: 0.8;
 }
 .navbar-header a.navbar-brand{
 	color:#fff;
